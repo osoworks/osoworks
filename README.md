@@ -25,7 +25,7 @@
 <h3 align="center"> 🐾 About Me 🐾 </h3>
 <p align="center">
   <a href="https://www.instagram.com/osoworks_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/osoworks_/"/></a>
-  <a href="20200913@sungshin.ac.kr"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=20200913@sungshin.ac.kr"/></a>
+  <a href="mailto:a01073729796@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=20200913@sungshin.ac.kr"/></a>
   <a href="https://osoworks.github.io/"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://osointhezzz.github.io/"/>
   <a href="https://opensea.io/osoworks_"><img src="https://img.shields.io/badge/OpenSea-2081E2?style=flat-square&logo=OpenSea&logoColor=white&link=https://opensea.io/osoworks_"/></a>
 </p>
