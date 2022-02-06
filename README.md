@@ -48,7 +48,7 @@ I'm studying hard to improve security services around our lives.
 
 <br>
 
-![osoworks_'s GitHub stats](https://github-readme-stats.vercel.app/api?username=osointhezzz&theme=flag-india&show_icons=true)
+![osoworks_'s GitHub stats](https://github-readme-stats.vercel.app/api?username=osoworks&theme=flag-india&show_icons=true)
 
 <br>
 
