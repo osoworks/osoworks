@@ -43,7 +43,7 @@ I'm studying hard to improve security services around our lives.
 - :mortar_board: Sungshin Women's University CSE student
 - 🌱 Learning convergenced security engineering 
 - 🤔 Looking for open source to contribute
-- 🔭 not yet ...
+- 🔭 Focusing on Digital Forensic
 - 🔐
 
 <br>
