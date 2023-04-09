@@ -38,7 +38,6 @@
 <br>
 
 Hi, I'm osoworks_🐾 
-I'm studying hard to improve security services around our lives.
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 - :mortar_board: Sungshin Women's University CSE student
 - 🌱 Learning convergenced security engineering 
