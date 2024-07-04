@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=350&section=header&text=osoworks_&fontsize=150)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=350&section=header&text=osoworks&fontsize=150)
 
 <p align="center">🗣️𝗞𝗥 𝗨𝗦 𝗝𝗣 𝗦𝗚🗣️</p>
 
@@ -25,7 +25,7 @@
 <h3 align="center"> 🐾 About Me 🐾 </h3>
 <p align="center">
   <a href="https://www.instagram.com/osoworks_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/osoworks_/"/></a>
-  <a href="mailto:kimujunga@outlook.kr"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimujunga@outlook.kr"/></a>
+  <a href="mailto:kimujunga@outlook.kr"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=20200913@sungshin.acr.kr"/></a>
   <a href="https://osoworks.github.io/"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://osointhezzz.github.io/"/>
   <a href="https://opensea.io/osoworks_"><img src="https://img.shields.io/badge/OpenSea-2081E2?style=flat-square&logo=OpenSea&logoColor=white&link=https://opensea.io/osoworks_"/></a>
 </p>
