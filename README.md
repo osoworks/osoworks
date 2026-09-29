@@ -21,17 +21,11 @@ Linux · AWS · Docker · Git · GitHub
 
 ## Selected Projects
 
+### 2022-hanium
+Team-based software project developed through the Hanium ICT Mentoring program.
+
 ### bob-13-dev
 Hands-on projects in systems, networking, and digital forensics.
-
-### malloc-lab
-Low-level systems programming and dynamic memory allocator implementation in C.
-
-### Shell-lab
-Unix process control, signals, and shell implementation.
-
-### Coding-Test
-Algorithm and programming problem-solving practice.
 
 ## Additional Tools
 
