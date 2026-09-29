@@ -1,6 +1,6 @@
 <h3 align="center"> Stack </h3>
 
-<p align="center">🗣️𝗞𝗥 𝗨𝗦 𝗝𝗣 𝗦𝗚🗣️</p>
+<p align="center">🗣️ KR US ES JP</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> 
