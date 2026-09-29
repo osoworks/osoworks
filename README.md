@@ -7,7 +7,6 @@ I am interested in practical security research across cloud infrastructure, syst
 ## Research Interests
 
 - Cloud & Infrastructure Security
-- Systems and Network Security
 - Digital Forensics
 - Software Security
 - Security Automation
@@ -15,13 +14,10 @@ I am interested in practical security research across cloud infrastructure, syst
 ## Technical Background
 
 **Programming**  
-Python · C · C++ · Java
+Python · Java
 
 **Systems & Infrastructure**  
 Linux · AWS · Docker · Git · GitHub
-
-**Security Tools**  
-Wireshark · Nmap · Burp Suite
 
 ## Selected Projects
 
