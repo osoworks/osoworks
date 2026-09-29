@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm 000 👋</h1>
+<h1 align="center">Hi, I work on security problems across systems, networks, and cloud environments.</h1>
 
 <p align="center">
   <b>Cybersecurity · Cloud · Systems · Digital Forensics</b>
@@ -6,7 +6,7 @@
 
 ---
 
-### 🛡️ Security & Systems
+### Security & Systems
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
 </p>
 
-### ☁️ Cloud & Development
+### Cloud & Development
 
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/>
@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 </p>
 
-### 🎨 Other Tools
+### Other Tools
 
 <p>
   <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=black"/>
@@ -33,26 +33,16 @@
 
 ---
 
-### 📌 Interests
+### Interests
 
 - Cybersecurity
 - Cloud Security
 - Systems & Networking
 - Digital Forensics
 - Software & Infrastructure Security
-
 ---
 
-### 📊 GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=osoworks&show_icons=true&hide_border=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osoworks&layout=compact&hide_border=true"/>
-</p>
-
----
-
-### 🌐 Languages
+### Languages
 
 <p>
   🇰🇷 Korean &nbsp; · &nbsp;
