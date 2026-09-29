@@ -1,10 +1,6 @@
-<p align="center">🗣️𝗞𝗥 𝗨𝗦 𝗝𝗣 𝗦𝗚🗣️</p>
+<h3 align="center"> Stack </h3>
 
-<br>
-
-<h3 align="center">🔧 Tech Stack 🔧</h3>
-
-<p align="center"> Techs that I've used at least once </p>
+<p align="center">  I've used at least once </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> 
@@ -17,6 +13,8 @@
  <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=AdobePhotoshop&logoColor=black"/></a> 
  <img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=flat-square&logo=AdobePremierePro&logoColor=black"/></a>
 </p>
+
+<p align="center">🗣️𝗞𝗥 𝗨𝗦 𝗝𝗣 𝗦𝗚🗣️</p>
 
 <!--
 **[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/백준아이디/)
