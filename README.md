@@ -19,27 +19,6 @@
  <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=AdobePhotoshop&logoColor=black"/></a> 
  <img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=flat-square&logo=AdobePremierePro&logoColor=black"/></a>
 </p>
-  
-<br>
-
-<h3 align="center"> 🐾 About Me 🐾 </h3>
-<p align="center">
-  <a href="https://www.instagram.com/osoworks_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/osoworks_/"/></a>
-  <a href="mailto:20200913@sungshin.ac.kr"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=20200913@sungshin.ac.kr"/></a>
-  <a href="https://osoworks.github.io/"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://osointhezzz.github.io/"/>
-  <a href="https://opensea.io/osoworks_"><img src="https://img.shields.io/badge/OpenSea-2081E2?style=flat-square&logo=OpenSea&logoColor=white&link=https://opensea.io/osoworks_"/></a>
-</p>
-<br>
-
-<p align="center">
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/osointhezzz&count_bg=%233D79C8&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-</p>
-
-<br>
-
-Hi, I'm osoworks_🐾 
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
-<br>
 
 <!--
 **[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/백준아이디/)
