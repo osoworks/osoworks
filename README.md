@@ -39,15 +39,6 @@
 
 Hi, I'm osoworks_🐾 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
-- :mortar_board: Sungshin Women's University CSE student
-- 🌱 Learning convergenced security engineering 
-- 🤔 Looking for open source to contribute
-- 🔐
-
-<br>
-
-![osoworks_'s GitHub stats](https://github-readme-stats.vercel.app/api?username=osoworks&theme=flag-india&show_icons=true)
-
 <br>
 
 <!--
