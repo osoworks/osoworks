@@ -42,7 +42,6 @@ Hi, I'm osoworks_🐾
 - :mortar_board: Sungshin Women's University CSE student
 - 🌱 Learning convergenced security engineering 
 - 🤔 Looking for open source to contribute
-- 🔭 Focusing on Digital Forensic
 - 🔐
 
 <br>
