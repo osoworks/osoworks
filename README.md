@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=350&section=header&text=osoworks&fontsize=150)
-
 <p align="center">🗣️𝗞𝗥 𝗨𝗦 𝗝𝗣 𝗦𝗚🗣️</p>
 
 <br>
