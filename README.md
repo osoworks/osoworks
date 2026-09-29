@@ -1,28 +1,64 @@
-<h2 align="center">Hi 👋</h2>
+<h1 align="center">Hi, I'm Junga 👋</h1>
 
 <p align="center">
-  Interested in Cybersecurity, Cloud, Systems, and Digital Forensics.
+  <b>Cybersecurity · Cloud · Systems · Digital Forensics</b>
 </p>
 
-<h3 align="center">Tech Stack in Security & Systems</h3>
+---
 
-<p align="center">
+### 🛡️ Security & Systems
+
+<p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
 </p>
 
-<h3 align="center">Also familiar with Tools</h3>
+### ☁️ Cloud & Development
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square&logo=AdobeIllustrator&logoColor=black"/></a>
-  <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=AdobePhotoshop&logoColor=black"/></a>
-  <img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=flat-square&logo=AdobePremierePro&logoColor=black"/></a>
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 </p>
 
+### 🎨 Other Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Premiere%20Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white"/>
+</p>
+
+---
+
+### 📌 Interests
+
+- Cybersecurity
+- Cloud Security
+- Systems & Networking
+- Digital Forensics
+- Software & Infrastructure Security
+
+---
+
+### 📊 GitHub
+
 <p align="center">
-  KR · EN · ES · JP
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=osoworks&show_icons=true&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osoworks&layout=compact&hide_border=true"/>
+</p>
+
+---
+
+### 🌐 Languages
+
+<p>
+  🇰🇷 Korean &nbsp; · &nbsp;
+  🇺🇸 English &nbsp; · &nbsp;
+  🇪🇸 Spanish &nbsp; · &nbsp;
+  🇯🇵 Japanese
 </p>
 
 <!--
