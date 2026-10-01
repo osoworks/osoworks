@@ -1,8 +1,7 @@
 # [Junga Kim](https://sites.google.com/sungshin.ac.kr/osoworks/%ED%99%88)
 Cybersecurity · Cloud · Systems · Digital Forensics
 
-> [!NOTE]
-> I am interested in practical security research across cloud infrastructure, systems, networks, and software.
+I am interested in practical security research across cloud infrastructure, systems, networks, and software.
 
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=?)
 [![Google Scholar Citations](https://img.shields.io/endpoint?url=https%3A%2F%2Fgoogle-scholar-badge.vercel.app%2Fcitations%3Fuser=?)](https://scholar.google.com/citations?user=?)
