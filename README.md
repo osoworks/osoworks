@@ -12,9 +12,8 @@ I am interested in practical security research across cloud infrastructure, syst
 ## Research Interests
 
 - Cloud & Infrastructure Security
-- Digital Forensics
-- Software Security
 - Security Automation
+- Digital Forensics
 
 ## Technical Background
 
@@ -22,7 +21,7 @@ I am interested in practical security research across cloud infrastructure, syst
 Python · Java
 
 **Systems & Infrastructure**  
-Linux · AWS · Docker · Git · GitHub
+AWS · Docker · GitHub
 
 ## Selected Projects
 
@@ -30,7 +29,7 @@ Linux · AWS · Docker · Git · GitHub
 Team-based software project developed through the Hanium ICT Mentoring program.
 
 ### [bob-13-dev](https://github.com/osoworks/bob-13-dev)
-Hands-on projects in systems, networking, and digital forensics.
+Hands-on projects in systems, networking, and digital forensics through the KITRI BoB (Best of the Best) program.
 
 ## Additional Tools
 
